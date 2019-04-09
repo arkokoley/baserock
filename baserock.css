@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans:200|Lato:300');
+
+body {
+  font-family: 'Fira Sans', sans-serif;
+}
+main {
+  max-width: 40rem;
+  padding: 2rem;
+  margin: auto;
+}
+img {
+  max-width: 100%;
+}
