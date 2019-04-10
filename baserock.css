@@ -1,9 +1,7 @@
-@import url('https://fonts.googleapis.com/css?family=Fira+Sans:200|Lato:300');
-
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans:300');
 body {
-  font-family: 'Fira Sans', 'Lato', sans-serif;
+  font-family: 'Fira Sans', sans-serif;
   line-height: 1.6;
-  font-size: 16px;
   color: #222;
   max-width: 40rem;
   padding: 2rem;
@@ -16,9 +14,6 @@ img {
 a {
   color: #2ECC40;
   text-decoration: none;
-}
-a:hover {
-  text-decoration: underline;
 }
 h1, h2, strong {
   color: #111;
